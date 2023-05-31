@@ -1,0 +1,19 @@
+
+/_dist_/
+/_build_/
+/ProcessInvoker/Assets/TextMesh Pro/
+/ProcessInvoker/Assets/TextMesh Pro.meta
+/ProcessInvoker/Assets/Plugins/
+/ProcessInvoker/Assets/Plugins.meta
+/ProcessInvoker/Assets/3rd/
+/ProcessInvoker/Assets/3rd.meta
+/ProcessInvoker/Library/
+/ProcessInvoker/obj/
+/ProcessInvoker/Logs/
+/ProcessInvoker/Temp/
+/ProcessInvoker/UserSettings/
+/ProcessInvoker/*.sln
+/ProcessInvoker/*.csproj
+/ProcessInvoker/.vsconfig
+/ProcessInvoker/.vs/
+/.UNITY_HOME.env
